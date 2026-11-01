@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <a href="https://guns.lol/vio"><b>guns.lol/vio</b></a>
+  <a href="https://viocles.com"><b>viocles.com</b></a>
 </p>
